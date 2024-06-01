@@ -1,0 +1,19 @@
+﻿Сборка начата 14.04.2024 18:44:14.
+Уровень детализации журнала: Normal.     1>Проект "D:\БГТУ\GDD\GDD\GEN\GEN.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\GEN.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+       Целевой объект "_MASM" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         GEN.vcxproj -> D:\БГТУ\GDD\GDD\Debug\GEN.exe
+       FinalizeBuildStatus:
+         Файл "Debug\GEN.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\GEN.tlog\GEN.lastbuildstate".
+     1>Сборка проекта "D:\БГТУ\GDD\GDD\GEN\GEN.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.19
